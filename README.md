@@ -1,10 +1,25 @@
 # COLLEGE_ADMISSION_PROJECT
 
-**BUSINESS PROBLEM:** Get the University Information to apply to universities in the United States of America. 
-NOTE: Use the MACHINE LEARNING MODELS to find out the best results.
+**BUSINESS PROBLEM:** To get the University details in the United states based on student scores. By using the machine learning models to find the best eligible universities.
+
 
 **CONTENT:**
-The dataset contains the information of the universities. Information about Student Acceptance Test Score, Top10 Ratio, Accept Ratio by the university, Expenses of the university, Student Faculty Ratio and Graduation Ratio.
+The dataset contains university information i.e student acceptance test score, top10 ratio, acceptance ratio by the university, expenses of the university, student faculty ratio, graduation ratio.
+DATASET: Click here to get the dataset
+
+
+Student Acceptance Test Score: University eligible test score.
+
+Top10 Ratio: University percentage in top10.
+
+Acceptance Ratio by University: It is the percentage of the students who get accepted after going through the application process of the university.
+
+Student Faculty Ratio: A teacher-student ratio of 1:10 indicates that there is 1 teacher for every 10 students.
+
+University Expenses: Yearly expenses of the university.
+
+Graduation Ratio: Annual graduation rate from the university.
+
 
 
 **MACHINE LEARNING MODEL:**
